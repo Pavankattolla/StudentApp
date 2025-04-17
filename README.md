@@ -19,8 +19,8 @@ A simple Spring Boot web application for managing student registrations. Admin c
 ## 🛠 Tech Stack
 
 - **Backend**: Java, Spring Boot, Spring Data JPA, Spring Web, Java Mail
-- **Frontend**: HTML, CSS, JavaScript (Vanilla)
-- **Database**: H2 / MySQL (as configured)
+- **Frontend**: HTML, CSS, JavaScript
+- **Database**: MySQL
 - **Build Tool**: Maven
 - **IDE**: Spring Tool Suite (STS)
 
