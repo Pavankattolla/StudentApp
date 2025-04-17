@@ -1,0 +1,13 @@
+#datasource specification configuration
+spring:
+  datasource:
+    url: "jdbc:mysql://localhost:3306/Student"
+    username: root
+    password: root
+
+
+#jpa specification configuation
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
